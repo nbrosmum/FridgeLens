@@ -1,5 +1,5 @@
 # FridgeLens
-FridgeLens – A smart fridge inventory mobile app using image recognition (via Google Teachable Machine) to track food expiry dates, send notifications, and manage shopping lists.
+FridgeLens – A smart fridge inventory mobile app that uses image recognition (via Google Teachable Machine) to help reduce food waste by tracking expiry dates, sending timely notifications, and managing shopping lists — supporting UN SDG 12: Responsible Consumption and Production.
 
 ## ✨ Features
 
