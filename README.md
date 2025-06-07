@@ -6,8 +6,8 @@ FridgeLens – A smart fridge inventory mobile app using image recognition (via 
 - 📸 **Image Recognition** using Google Teachable Machine
 - ⏰ **Expiry Tracking** with automatic reminders/notifications
 - 🛒 **Smart Shopping List** management
-- 🗂️ Organize items by category or storage location (fridge/freezer/pantry)
-- 🌗 Dark mode (optional UI enhancement)
+- 🗂️ Organize items by category or storage location (fridge/freezer)
+
 
 ---
 
